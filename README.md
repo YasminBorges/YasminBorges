@@ -19,7 +19,7 @@
   
 ##
    
-  ![Snake animation](https://github.com/YasminBorges/YasminBorges/blob/main/.github/workflows/main.yml)
+  ![Snake animation](https://github.com/YasminBorges/YasminBorges/blob/output/github-contribution-grid-snake.svg)
   
 🌟 🔭 I am currently studying to work as a programmer
   
